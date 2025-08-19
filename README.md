@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi Peeps!👋, I'm Chualia student from Compute Science in CATC</h1>
+<h3 align="center">I want to be a Web Developer and I hope I can learn from you!</h3>
 
-<!--
-**chualia/chualia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **my skills as a Student**
+- 🌱 I’m currently learning **Python**
+- 💬 We can learn from each other like **JavaScript, Html, and other Programming Languages**
+- 📫 How to reach me: **add me here in Github**
+- ⚡ Fun fact: **I enjoy learning about codes especially in Designing!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,java,html,css,tailwind,figma,git,github,docker,mysql,mongodb" />
+</p>
+
+---
+
